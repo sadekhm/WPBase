@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-	<h1><?php _e( 'Recent Posts', 'wpbase' ); ?></h1>
+	<h1><?php _e( 'Tag Archive: ', 'wpbase' ); echo single_tag_title('', false); ?></h1>
 
 	<?php get_template_part('includes/content/content', 'index'); ?>
 

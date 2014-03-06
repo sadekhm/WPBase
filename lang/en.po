@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBase\n"
+"POT-Creation-Date: 2014-03-07 01:53+0200\n"
+"PO-Revision-Date: 2014-03-07 01:53+0200\n"
+"Last-Translator: Hisham Sadek <hisham.sadik@gmail.com>\n"
+"Language-Team: Hisham Sadek <hisham.sadik@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\localhost\\htdocs\\wordpress\\wp-content\\themes"
+"\\WPBase\n"
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/404.php:5
+msgid "404 - Not Found"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/404.php:7
+msgid "Nothing Found here. Go back to "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/404.php:7
+msgid "Homepage"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/archive.php:3
+msgid "Archive"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:6
+msgid "Posts wrote by: "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:12
+msgid "About "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:25
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/content-index.php:12
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-archive.php:12
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-index.php:12
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:12
+msgid "Published at "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:28
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/content-index.php:15
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-archive.php:15
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-index.php:15
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:15
+msgid "by"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:31
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/content-index.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-archive.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-index.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:18
+msgid "Leave a Comment"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:31
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/content-index.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-archive.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-index.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:18
+msgid "Comments (1)"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:31
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/content-index.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-archive.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-index.php:18
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:18
+msgid "Comments (%)"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:55
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/content-index.php:42
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-archive.php:42
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-index.php:42
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-page.php:22
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:45
+msgid "Nothing Found"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/author.php:56
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/content-index.php:43
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-archive.php:43
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-index.php:43
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-page.php:23
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:46
+msgid "You reached here by mistake or this post is no longer available."
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/category.php:3
+msgid "Category: "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/comments.php:3
+msgid "This post is password protected. Enter password to view comments."
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/comments.php:22
+msgid "Comments disabled."
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/footer.php:7
+msgid "Proudly Powered by"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/footer.php:8
+msgid "WordPress"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:28
+msgid "Tagged in: "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/content/content-single.php:31
+msgid "Categorized in: "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/functions/menus.php:8
+msgid "Primary Menu"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/functions/menus.php:9
+msgid "Extra Menu"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/functions/sidebar.php:5
+msgid "Main Sidebar"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/includes/functions/sidebar.php:6
+msgid "Description for this sidebar"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/index.php:3
+msgid "Recent Posts"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/search.php:3
+#, php-format
+msgid "%s Search Results for "
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: D:\localhost\htdocs\wordpress\wp-content\themes\WPBase/tag.php:3
+msgid "Tag Archive: "
+msgstr ""
