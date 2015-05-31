@@ -31,7 +31,7 @@ function wpbase_remove_version( $src ) {
     return $src;
 }
 /* Filters */
-add_filter( 'style_loader_src', 'wpbase_remove_version', 9999 );
-add_filter( 'script_loader_src', 'wpbase_remove_version', 9999 );
+add_filter('style_loader_src', 'wpbase_remove_version', 9999);
+add_filter('script_loader_src', 'wpbase_remove_version', 9999);
 add_filter('widget_text', 'do_shortcode');
 add_filter('widget_text', 'shortcode_unautop');
