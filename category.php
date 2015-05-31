@@ -2,7 +2,7 @@
 
 	<h1><?php _e( 'Category: ', 'wpbase' ); echo single_tag_title('', false); ?></h1>
 
-	<?php get_template_part('includes/content/content', 'index'); ?>
+	<?php get_template_part('templates/content', 'index'); ?>
 
 <?php get_sidebar(); ?>
 

@@ -4,7 +4,7 @@
 
 		<h1><?php _e( '404 - Not Found', 'wpbase' ); ?></h1>
 		<p>
-			<?php _e( 'Nothing Found here. Go back to ', 'etch' ); ?> <a href="<?php echo home_url(); ?>"><?php _e( 'Homepage', 'wpbase' ); ?></a>
+			<?php _e( 'Nothing Found here. Go back to ', 'wpbase' ); ?> <a href="<?php echo home_url(); ?>"><?php _e( 'Homepage', 'wpbase' ); ?></a>
 		</p>
 
 	</article>
